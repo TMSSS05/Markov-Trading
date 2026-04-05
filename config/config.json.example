@@ -1,0 +1,24 @@
+{
+  "tradingview": {
+    "enabled": true,
+    "mcp_server": "tradingview-mcp"
+  },
+  "news_api": {
+    "enabled": true,
+    "api_key": ""
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  },
+  "screeners": {
+    "default_market": "america",
+    "default_limit": 20
+  },
+  "analysis": {
+    "default_rsi_oversold": 30,
+    "default_rsi_overbought": 70,
+    "sma_short": 50,
+    "sma_long": 200
+  }
+}
