@@ -1,0 +1,25 @@
+# Markov Trading - Dependencies
+# Agent IA d'Analyse de Marchés Financiers
+
+# Core
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# HTTP & Async
+aiohttp>=3.9.0
+httpx>=0.26.0
+
+# Web Scraping
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Logging & Config
+pyyaml>=6.0.0
+
+# Market Data
+# tradingview-api>=0.1.0  # Via MCP
+
+# Utils
+python-dateutil>=2.8.0
+requests>=2.31.0
