@@ -1,0 +1,22 @@
+# Markov Trading
+.env
+*.pyc
+__pycache__/
+*.log
+*.tmp
+
+# Config locale (ne pas commiter)
+config/config.json
+
+# Virtuel env
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
